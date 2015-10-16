@@ -1,6 +1,6 @@
 name: Moalboal Ashoka Group
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.31309654121287167
 cta:
   domain: null
   bucket: null
@@ -23,3 +23,4 @@ purpose:
   - name: awareness
     item: null
     url: null
+typography_spectrum: 0.47190149733796716
